@@ -1,0 +1,16 @@
+{
+  "name": "TransformControls-con-Threejs-master",
+  "version": "1.0.0",
+  "description": "Agregando interactividad a nuestras formas geométricas para ya sea trasladar, rotar o escalar a través del mouse.",
+  "main": "OrbitControls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
